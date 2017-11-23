@@ -1,5 +1,5 @@
 html {
-  font-family: 'Overpass', sans-serif;
+  font-family: "Overpass", sans-serif;
 }
 
 body {
@@ -37,4 +37,10 @@ a {
   border-color: #fff;
   background-color: #fff;
   color: #ff9500;
+}
+
+@media only screen and (min-width: 60em) {
+
+
+
 }
