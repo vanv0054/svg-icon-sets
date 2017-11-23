@@ -1,5 +1,5 @@
 html {
-  font-family: "Overpass", sans-serif;
+  font-family: Overpass, sans-serif;
 }
 
 body {
@@ -47,7 +47,7 @@ ul {
 
   section {
     border-left: solid 2px;
-    border-color: rgba(255, 255, 255, .5)
+    border-color: rgba(255, 255, 255, .5);
   }
 
 }
