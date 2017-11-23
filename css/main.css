@@ -45,6 +45,9 @@ ul {
 
 @media only screen and (min-width: 60em) {
 
-
+  section {
+    border-left: solid 2px;
+    border-color: rgba(255, 255, 255, .5)
+  }
 
 }
