@@ -1,5 +1,5 @@
 html {
-  font-family: 'Overpass', sans-serif;
+  font-family: "Overpass", sans-serif;
 }
 
 body {
@@ -11,7 +11,7 @@ h1 {
   color: #fff;
 }
 
-.grid {
+.cen {
   text-align: center;
 }
 
