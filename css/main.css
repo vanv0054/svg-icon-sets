@@ -1,3 +1,25 @@
 html {
   font-family: 'Overpass', sans-serif;
 }
+
+body {
+  background-image: linear-gradient(to bottom, #ff9500, #ff9500, #ff5e3a, #ff5e3a);
+  background-repeat: no-repeat;
+}
+
+h1 {
+  color: #fff;
+}
+
+.grid {
+  text-align: center;
+}
+
+p {
+  text-align: left;
+  color: #fff;
+}
+
+h2 {
+  color: #fff;
+}
